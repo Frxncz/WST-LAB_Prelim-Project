@@ -27,3 +27,39 @@ body {
     font-size: 2.4rem;
     text-transform: uppercase;
 }
+
+.grid-container-ONE {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    justify-items: center;
+    margin-top: 50px;
+}
+
+.grid-container-TWO {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    justify-items: center;
+    margin-top: 15px;
+    padding-bottom: 50px;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile img {
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.profile p {
+    font-size: 25px;
+    color: #333;
+}
