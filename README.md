@@ -3,4 +3,4 @@ This is a simple website showcasing all of my group members' hobbies using basic
 
 ## Live Demo
 
-https://frxncz.github.io/Simple-Website_Group-Project/
+[https://frxncz.github.io/Simple-Website_Group-Project/](https://frxncz.github.io/WST-Simple-Website_Group-Project/)
